@@ -14,6 +14,7 @@ Current PORs:
 -------------
 I am the Social Media Manager of the EdTech startup, TECHTABLE. 
 I am also the coordinator of the events team, Tamil club, IITM.
+I am the Campus Manager of MYCAPTAIN, an EdTech startup.
 Why I want to work in the team:
 ------------------------------
 I am interested in Machine learning and Deep learning and I have just set my foot on the world of computer vision. I want to enhance my skills in this domain and I think the best way to do that is to work on projects. Since, Abhiyaan is working on autonomous vehicles, I am confident that this will be the right platform for me to boost my skills and also contribute to the team (a win-win situation!). I will also get to experience the fun of working with a team, filled with self-driven techies, that strives for a good cause.
