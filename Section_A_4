@@ -1,0 +1,7 @@
+$ roscore
+
+Open a new terminal
+$ rosrun turtlesim turtlesim_node
+
+Open a new terminal
+$ rosservice call \spawn 10 10 0 "abhiyaan"
